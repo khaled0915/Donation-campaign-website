@@ -1,0 +1,134 @@
+[
+    {
+        "id" : 1,
+        "title": "Health",
+        "image": "/public/Resources/Health.png",
+        "category": "Health",
+        "category_bg": "#4CAF50",
+        "card_bg": "#E8F5E9",
+        "text_bg": "#333",
+        "description": "Clean water for Children",
+        "price": 19.99
+      },
+      {
+        "id": 2,
+        "title": "Education",
+        "image": "/public/Resources/Education.png",
+        "category": "Education",
+        "category_bg": "#2196F3",
+        "card_bg": "#E3F2FD",
+        "text_bg": "#0000FF",
+        "description": "Good Education",
+        "price": 29.99
+      },
+      {
+        "id": 3,
+        "title": "Clothing",
+        "image": "/public/Resources/Clothing.png",
+        "category": "Clothing",
+        "category_bg": "#FF5722",
+        "card_bg": "#FFE0B2",
+        "text_bg": " #FFA500",
+        "description": "Used CLothing Drive",
+        "price": 49.99
+      },
+      {
+        "id": 4,
+        "title": "Food",
+        "image": "/public/Resources/Food.png",
+        "category": "Food",
+        "category_bg": "#FFC107",
+        "card_bg": "#FFF9C4",
+        "text_bg": "#008000",
+        "description": "Better Food for Everyone",
+        "price": 39.99
+      },
+    {
+        "id" : 5,
+        "title": "Health",
+        "image": "/public/Resources/Health.png",
+        "category": "Health",
+        "category_bg": "#4CAF50",
+        "card_bg": "#E8F5E9",
+        "text_bg": "#333",
+        "description": "Clean water for Children",
+        "price": 19.99
+      },
+      {
+        "id": 6,
+        "title": "Education",
+        "image": "/public/Resources/Education.png",
+        "category": "Education",
+        "category_bg": "#2196F3",
+        "card_bg": "#E3F2FD",
+        "text_bg": "#0000FF",
+        "description": "Good Education",
+        "price": 29.99
+      },
+      {
+        "id": 7,
+        "title": "Clothing",
+        "image": "/public/Resources/Clothing.png",
+        "category": "Clothing",
+        "category_bg": "#FF5722",
+        "card_bg": "#FFE0B2",
+        "text_bg": " #FFA500",
+        "description": "Used CLothing Drive",
+        "price": 49.99
+      },
+      {
+        "id": 8,
+        "title": "Food",
+        "image": "/public/Resources/Food.png",
+        "category": "Food",
+        "category_bg": "#FFC107",
+        "card_bg": "#FFF9C4",
+        "text_bg": "#008000",
+        "description": "Better Food for Everyone",
+        "price": 39.99
+      },
+    {
+        "id" : 5,
+        "title": "Health",
+        "image": "/public/Resources/Health.png",
+        "category": "Health",
+        "category_bg": "#4CAF50",
+        "card_bg": "#E8F5E9",
+        "text_bg": "#333",
+        "description": "Clean water for Children",
+        "price": 19.99
+      },
+      {
+        "id": 6,
+        "title": "Education",
+        "image": "/public/Resources/Education.png",
+        "category": "Education",
+        "category_bg": "#2196F3",
+        "card_bg": "#E3F2FD",
+        "text_bg": "#0000FF",
+        "description": "Good Education",
+        "price": 29.99
+      },
+      {
+        "id": 7,
+        "title": "Clothing",
+        "image": "/public/Resources/Clothing.png",
+        "category": "Clothing",
+        "category_bg": "#FF5722",
+        "card_bg": "#FFE0B2",
+        "text_bg": " #FFA500",
+        "description": "Used CLothing Drive",
+        "price": 49.99
+      },
+      {
+        "id": 8,
+        "title": "Food",
+        "image": "/public/Resources/Food.png",
+        "category": "Food",
+        "category_bg": "#FFC107",
+        "card_bg": "#FFF9C4",
+        "text_bg": "#008000",
+        "description": "Better Food for Everyone",
+        "price": 39.99
+      }
+]

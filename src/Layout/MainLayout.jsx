@@ -1,19 +1,21 @@
 import { Outlet } from "react-router-dom";
+import Navbar from "../Components/Navbar/Navbar";
 
 
 const MainLayout = () => {
     return (
-        <div>
-
-
-            <h2>
-                MainLayout
-            </h2>
+        <div className="max-w-[1440px] mx-auto">
 
 
 
+            <Navbar></Navbar>
 
-            <Outlet></Outlet>
+
+
+
+          <div className="py-10 ">
+          <Outlet></Outlet>
+          </div>
 
 
 
