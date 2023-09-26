@@ -8,7 +8,8 @@
         "card_bg": "#E8F5E9",
         "text_bg": "#333",
         "description": "Clean water for Children",
-        "price": 19.99
+        "price": 19.99,
+        "detailed_description" : "Maintaining good health is essential for a happy life. Our health supplement provides essential nutrients to support your well-being."
       },
       {
         "id": 2,
@@ -19,7 +20,8 @@
         "card_bg": "#E3F2FD",
         "text_bg": "#0000FF",
         "description": "Good Education",
-        "price": 29.99
+        "price": 29.99,
+        "detailed_description" : "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential"
       },
       {
         "id": 3,
@@ -30,7 +32,8 @@
         "card_bg": "#FFE0B2",
         "text_bg": " #FFA500",
         "description": "Used CLothing Drive",
-        "price": 49.99
+        "price": 49.99,
+        "detailed_description" :"Give the gift of warmth and style by donating clothing today. Your generous contribution can provide comfort to those in need and help them face each day with confidence. Join us in making a difference through the simple act of giving"
       },
       {
         "id": 4,
@@ -41,7 +44,8 @@
         "card_bg": "#FFF9C4",
         "text_bg": "#008000",
         "description": "Better Food for Everyone",
-        "price": 39.99
+        "price": 39.99,
+        "detailed_description": "Share the joy of a full plate by making a food donation. Your kindness can help put food on the tables of those who hunger, ensuring that no one goes to bed hungry. Join us in the fight against hunger and make a meaningful impact on someone's life with your food donation today"
       },
     {
         "id" : 5,
@@ -52,7 +56,8 @@
         "card_bg": "#E8F5E9",
         "text_bg": "#333",
         "description": "Clean water for Children",
-        "price": 19.99
+        "price": 19.99,
+        "detailed_description" : "Maintaining good health is essential for a happy life. Our health supplement provides essential nutrients to support your well-being."
       },
       {
         "id": 6,
@@ -63,7 +68,8 @@
         "card_bg": "#E3F2FD",
         "text_bg": "#0000FF",
         "description": "Good Education",
-        "price": 29.99
+        "price": 29.99,
+        "detailed_description" : "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential"
       },
       {
         "id": 7,
@@ -74,7 +80,8 @@
         "card_bg": "#FFE0B2",
         "text_bg": " #FFA500",
         "description": "Used CLothing Drive",
-        "price": 49.99
+        "price": 49.99,
+        "detailed_description" :"Give the gift of warmth and style by donating clothing today. Your generous contribution can provide comfort to those in need and help them face each day with confidence. Join us in making a difference through the simple act of giving"
       },
       {
         "id": 8,
@@ -85,7 +92,8 @@
         "card_bg": "#FFF9C4",
         "text_bg": "#008000",
         "description": "Better Food for Everyone",
-        "price": 39.99
+        "price": 39.99,
+        "detailed_description": "Share the joy of a full plate by making a food donation. Your kindness can help put food on the tables of those who hunger, ensuring that no one goes to bed hungry. Join us in the fight against hunger and make a meaningful impact on someone's life with your food donation today"
       },
     {
         "id" : 5,
@@ -96,7 +104,10 @@
         "card_bg": "#E8F5E9",
         "text_bg": "#333",
         "description": "Clean water for Children",
-        "price": 19.99
+        "price": 19.99,
+        "detailed_description" : "Maintaining good health is essential for a happy life. Our health supplement provides essential nutrients to support your well-being."
+        
+
       },
       {
         "id": 6,
@@ -107,7 +118,8 @@
         "card_bg": "#E3F2FD",
         "text_bg": "#0000FF",
         "description": "Good Education",
-        "price": 29.99
+        "price": 29.99,
+        "detailed_description" : "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential"
       },
       {
         "id": 7,
@@ -118,7 +130,8 @@
         "card_bg": "#FFE0B2",
         "text_bg": " #FFA500",
         "description": "Used CLothing Drive",
-        "price": 49.99
+        "price": 49.99,
+        "detailed_description" :"Give the gift of warmth and style by donating clothing today. Your generous contribution can provide comfort to those in need and help them face each day with confidence. Join us in making a difference through the simple act of giving"
       },
       {
         "id": 8,
@@ -129,6 +142,7 @@
         "card_bg": "#FFF9C4",
         "text_bg": "#008000",
         "description": "Better Food for Everyone",
-        "price": 39.99
+        "price": 39.99,
+        "detailed_description": "Share the joy of a full plate by making a food donation. Your kindness can help put food on the tables of those who hunger, ensuring that no one goes to bed hungry. Join us in the fight against hunger and make a meaningful impact on someone's life with your food donation today"
       }
 ]

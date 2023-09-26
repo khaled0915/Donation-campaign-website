@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const DataCard = ({data}) => {
@@ -7,7 +8,10 @@ const DataCard = ({data}) => {
     const {id , title , image , description , price , text_bg , card_bg ,category_bg , category } = data || {}
 
     return (
-        <div>
+
+        <Link to={`/data/${id}`}>
+
+<div>
 
 
 <div style={{backgroundColor:card_bg}} className="card card-compact w-[300px] h-[200px] bg-base-100 shadow-xl">
@@ -39,6 +43,10 @@ const DataCard = ({data}) => {
 </div>
             
         </div>
+        </Link>
+
+
+       
     );
 };
 
