@@ -14,6 +14,11 @@ const Donation = () => {
     const [totalDonation , setTotalDonation]=useState(0)
 
 
+    const toggleVisibility = () => {
+        setIsShow(!isShow);
+    }
+
+
 
 useEffect( ()=>{
 
@@ -54,7 +59,7 @@ console.log(donationInfo)
 
 
 
-                <div className="grid grid-cols-2 gap-5">
+                <div className="grid md:grid-cols-2 grid-cols-1 gap-5">
 
                     {
                         isShow ? donationInfo.map( data => <DonationCard key={data.id} data={data}></DonationCard>)
@@ -67,17 +72,21 @@ console.log(donationInfo)
 
 
                 </div>
-                {
-                    donationInfo.length> 4 && <button onClick={() => setIsShow(!isShow)} className="text-[#FFF]  bg-[#009444] px-5 mx-auto rounded-lg items-center flex py-4  mt-5 "
-                    
-                    >
+                {donationInfo.length > 4 && (
+       
+       
+       <button
+          onClick={toggleVisibility}
+          className={`text-[#FFF] bg-[#009444] px-5 mx-auto rounded-lg items-center flex py-4 mt-5 ${
+            isShow ? 'hidden' : ''
+          }`}
+        >
+          {isShow ? 'See More' : 'See All'}
+        </button>
+      )}
+                
 
-{!isShow ? 'see more' :''}
 
-
-
-                    </button>
-                }
 
 
 

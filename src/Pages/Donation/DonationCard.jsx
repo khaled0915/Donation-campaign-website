@@ -9,18 +9,37 @@ const DonationCard = ({data}) => {
 
 
 
-<div className="card card-side bg-base-100 shadow-xl">
+<div style={{backgroundColor:card_bg}} className="card card-side bg-base-100 shadow-xl">
 
 
 <figure><img src={image} alt="Movie"/></figure>
 
 
 <div className="card-body">
-  <h2 className="card-title">{title}</h2>
-  <p>{description}</p>
-  <p> ${price} </p>
+
+  <h2 style={{
+    
+    color:category_bg,
+    backgroundColor :text_bg,
+    width :100,
+    padding :8,
+    borderRadius :5 
+
+}} className="card-title font-bold">{title}</h2>
+
+
+  <p className="font-semibold" style={{color:text_bg}}>{description}</p>
+  <p style={{
+    color:category_bg
+  }}> ${price} </p>
+
+
   <div className="card-actions justify-start">
-    <button className="btn btn-primary">View Details</button>
+    <button style={{
+        backgroundColor:category_bg,
+        
+
+    }} className="btn text=[#FFF] btn-primary">View Details</button>
   </div>
 </div>
 </div>

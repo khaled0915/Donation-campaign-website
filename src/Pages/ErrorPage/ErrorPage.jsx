@@ -5,7 +5,7 @@ const ErrorPage = () => {
         <div>
 
             <h2 className="h-screen flex justify-center items-center">
-                Error
+                Error 404
             </h2>
             
         </div>

@@ -1,6 +1,7 @@
 import { json } from "react-router-dom";
 
-
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 const DataDetailsCard = ({data}) => {
 
 
@@ -28,10 +29,17 @@ const DataDetailsCard = ({data}) => {
             if(!isExits){
                 addToDonationPage.push(...donationData , data)
                 localStorage.setItem('DonatedData' , JSON.stringify(addToDonationPage))
-                alert('added')
+
+                
+
+                toast.success('you successfully donated');
             }
             else{
-                alert('already added')
+
+                
+                toast.success('already donated')
+
+                
             }
         }
 
@@ -48,28 +56,11 @@ const DataDetailsCard = ({data}) => {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     const {id , title , image , description , price , text_bg , card_bg ,category_bg , category , detailed_description} = data || {}
 
 
     return (
         <div className="h-[70vh] flex justify-center items-center  flex-col py-10 ">
-
-
-
-
-
 
 <div className="relative">
   <img src={image}  alt="Your Image" className="lg:w-[1000px] w-[300px] md:w-[700px] md:h-[400px] h-[200px] lg:h-[500px]" />
@@ -81,7 +72,8 @@ const DataDetailsCard = ({data}) => {
   <div className="absolute bottom-0 left-0 p-4">
 
 
-    <button
+    <button 
+    
 
     onClick={handleDonation}
 
@@ -93,7 +85,7 @@ style={{
   }}
     
     
-    className="bg-blue-500 hover:bg-orange-600 text-white py-2 px-4 rounded ">
+    className="bg-blue-500 hover:bg-orange-600 text-white py-2 px-4 rounded "> <ToastContainer />
     Donate ${price}
     </button>
   </div>

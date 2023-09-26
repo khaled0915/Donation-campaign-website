@@ -22,7 +22,7 @@ const DataCard = ({data}) => {
   <div className="card-body">
 
 
-    <h2 className="font-normal "
+    <h2 className="font-bold "
 
      style={{
         
