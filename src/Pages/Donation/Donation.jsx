@@ -33,7 +33,7 @@ useEffect( ()=>{
     }
 
     else {
-        setNoData('no data')
+        setNoData('no donation added ')
 
     }
 

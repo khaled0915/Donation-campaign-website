@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "title": "Health",
-        "image": "/public/Resources/Health.png",
+        "image": "https://i.ibb.co/L0QF70h/Health.png",
         "category": "Health",
         "category_bg": "#4CAF50",
         "card_bg": "#E8F5E9",
@@ -14,7 +14,7 @@
       {
         "id": 2,
         "title": "Education",
-        "image": "/public/Resources/Education.png",
+        "image": "https://i.ibb.co/1Jty4zf/Education.png",
         "category": "Education",
         "category_bg": "#2196F3",
         "card_bg": "#E3F2FD",
@@ -26,7 +26,7 @@
       {
         "id": 3,
         "title": "Clothing",
-        "image": "/public/Resources/Clothing.png",
+        "image": "https://i.ibb.co/PDH0VNH/Clothing.png",
         "category": "Clothing",
         "category_bg": "#FF5722",
         "card_bg": "#FFE0B2",
@@ -38,7 +38,7 @@
       {
         "id": 4,
         "title": "Food",
-        "image": "/public/Resources/Food.png",
+        "image": "https://i.ibb.co/cT2TR3W/Food.png",
         "category": "Food",
         "category_bg": "#FFC107",
         "card_bg": "#FFF9C4",
@@ -50,7 +50,7 @@
     {
         "id" : 5,
         "title": "Health",
-        "image": "/public/Resources/Health.png",
+        "image": "https://i.ibb.co/L0QF70h/Health.png",
         "category": "Health",
         "category_bg": "#4CAF50",
         "card_bg": "#E8F5E9",
@@ -62,7 +62,7 @@
       {
         "id": 6,
         "title": "Education",
-        "image": "/public/Resources/Education.png",
+        "image": "https://i.ibb.co/1Jty4zf/Education.png",
         "category": "Education",
         "category_bg": "#2196F3",
         "card_bg": "#E3F2FD",
@@ -74,7 +74,7 @@
       {
         "id": 7,
         "title": "Clothing",
-        "image": "/public/Resources/Clothing.png",
+        "image": "https://i.ibb.co/PDH0VNH/Clothing.png",
         "category": "Clothing",
         "category_bg": "#FF5722",
         "card_bg": "#FFE0B2",
@@ -86,7 +86,7 @@
       {
         "id": 8,
         "title": "Food",
-        "image": "/public/Resources/Food.png",
+        "image": "https://i.ibb.co/cT2TR3W/Food.png",
         "category": "Food",
         "category_bg": "#FFC107",
         "card_bg": "#FFF9C4",
@@ -96,9 +96,9 @@
         "detailed_description": "Share the joy of a full plate by making a food donation. Your kindness can help put food on the tables of those who hunger, ensuring that no one goes to bed hungry. Join us in the fight against hunger and make a meaningful impact on someone's life with your food donation today"
       },
     {
-        "id" : 5,
+        "id" : 9,
         "title": "Health",
-        "image": "/public/Resources/Health.png",
+        "image": "https://i.ibb.co/L0QF70h/Health.png",
         "category": "Health",
         "category_bg": "#4CAF50",
         "card_bg": "#E8F5E9",
@@ -110,9 +110,9 @@
 
       },
       {
-        "id": 6,
+        "id": 10,
         "title": "Education",
-        "image": "/public/Resources/Education.png",
+        "image": "https://i.ibb.co/1Jty4zf/Education.png",
         "category": "Education",
         "category_bg": "#2196F3",
         "card_bg": "#E3F2FD",
@@ -122,9 +122,9 @@
         "detailed_description" : "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential"
       },
       {
-        "id": 7,
+        "id": 11,
         "title": "Clothing",
-        "image": "/public/Resources/Clothing.png",
+        "image": "https://i.ibb.co/PDH0VNH/Clothing.png",
         "category": "Clothing",
         "category_bg": "#FF5722",
         "card_bg": "#FFE0B2",
@@ -134,9 +134,9 @@
         "detailed_description" :"Give the gift of warmth and style by donating clothing today. Your generous contribution can provide comfort to those in need and help them face each day with confidence. Join us in making a difference through the simple act of giving"
       },
       {
-        "id": 8,
+        "id": 12,
         "title": "Food",
-        "image": "/public/Resources/Food.png",
+        "image": "https://i.ibb.co/cT2TR3W/Food.png",
         "category": "Food",
         "category_bg": "#FFC107",
         "card_bg": "#FFF9C4",

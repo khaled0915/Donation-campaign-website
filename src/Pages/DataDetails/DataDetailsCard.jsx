@@ -21,6 +21,7 @@ const DataDetailsCard = ({data}) => {
             addToDonationPage.push(data)
             localStorage.setItem('DonatedData' , JSON.stringify(addToDonationPage))
             // alert('this item is added');
+            toast.success('you successfully donated');
         }
 
         else {

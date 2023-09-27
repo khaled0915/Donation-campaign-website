@@ -8,7 +8,7 @@ const Logo = () => {
 
             <div>
 
-                <img src="/public/Resources/Logo.png" alt="" />
+                <img src="https://i.ibb.co/CJP3BJ3/Logo.png" alt="" />
 
             </div>
 

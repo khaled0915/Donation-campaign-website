@@ -9,7 +9,7 @@ const Banner = () => {
 <div className="hero " >
 
 
-<img className="opacity-10" src="/public/Resources/DonBanner.png" alt="" />
+<img className="opacity-10" src="https://i.ibb.co/QYWmytK/Don-Banner.png" alt="" />
 
     
 
